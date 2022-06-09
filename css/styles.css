@@ -230,6 +230,10 @@ select:-webkit-autofill:focus {
   color: #fff;
 }
 
+.site-header__cart--empty .site-header__cart-product-count {
+  display: none;
+}
+
 .site-header__cart-icon {
   width: 22px;
   height: 20px;
