@@ -1,11 +1,11 @@
 /* CUSTOM-PROPS */
 :root {
-  --text-color: #69707D;
-  --text-color-dark: #1D2026;
-  --accent-color: #FF7E1B;
-  --accent-color-hover: #FFAB6A;
-  --accent-color-light: #FFEEE2;
-  --light-bg: #F6F8FD;
+  --text-color: #69707d;
+  --text-color-dark: #1d2026;
+  --accent-color: #ff7e1b;
+  --accent-color-hover: #ffab6a;
+  --accent-color-light: #ffeee2;
+  --light-bg: #f6f8fd;
 
   --font-family: "Kumbh Sans", "Arial", sans-serif;
 }
