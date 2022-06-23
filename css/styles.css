@@ -789,19 +789,6 @@ select:-webkit-autofill:focus {
   font-weight: bold;
 }
 
-.button {
-}
-.button--wide {
-}
-.button__inner {
-}
-.button__prepend {
-}
-.button__icon {
-}
-.button__text {
-}
-
 
 @media
 only screen and (-webkit-min-device-pixel-ratio: 2),
